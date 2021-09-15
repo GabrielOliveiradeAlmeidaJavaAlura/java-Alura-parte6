@@ -20,7 +20,7 @@ public class TesteArrayList {
 		lista.add(c3);
 		Conta c4 = new ContaCorrente(33, 45);
 		lista.add(c4);
-		Conta c5 = new ContaCorrente(33, 45);
+		Conta c5 = new ContaCorrente(43, 45);
 		lista.add(c5);
 		Conta c6 = new ContaCorrente(33, 45);
 		lista.add(c6);
